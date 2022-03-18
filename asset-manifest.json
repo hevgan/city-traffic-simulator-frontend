@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/city-traffic-simulator/static/css/main.073c9b0a.css",
+    "main.js": "/city-traffic-simulator/static/js/main.924e76b4.js",
+    "static/js/787.f016fab9.chunk.js": "/city-traffic-simulator/static/js/787.f016fab9.chunk.js",
+    "static/media/logo.svg": "/city-traffic-simulator/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/city-traffic-simulator/index.html",
+    "main.073c9b0a.css.map": "/city-traffic-simulator/static/css/main.073c9b0a.css.map",
+    "main.924e76b4.js.map": "/city-traffic-simulator/static/js/main.924e76b4.js.map",
+    "787.f016fab9.chunk.js.map": "/city-traffic-simulator/static/js/787.f016fab9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.924e76b4.js"
+  ]
+}
